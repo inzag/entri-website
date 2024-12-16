@@ -1,0 +1,43 @@
+.img1{
+    height: 270px;
+    width: 565px;
+    margin-left: 624px;
+    margin-top: -176px;
+    margin-bottom: 50px;
+    position: relative;
+    top: 90px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+p{
+    letter-spacing: 2px;
+    margin-left: -55px;
+    line-height: 25px;
+    font-size: 17px;
+    position: relative;
+    top: 90px;
+    
+}
+    
+h3{
+    margin-left: -53px;
+    position: relative;
+    top: 98px;
+}
+.navbar-nav  {
+    margin-left: 950px;
+}
+.section{
+    position: relative;
+    top: 10px;
+}
+h4{
+    font-size: 30px;
+}
+button{
+    position: relative;
+    top: -66px;
+    left: -52px;
+}
